@@ -1,9 +1,38 @@
-{
-    "August": [
+{"Instagram": 
+    {
+        "August": [
+            {
+                "textPresent": "True",
+                "text": "The research may lead to more effective immunotherapies for patients with cancer.",
+                "date": "29/08/21",
+                "likes": "1100",
+                "comments": "45",
+                "shares": "99",
+                "video": "False",
+                "LinkAttached": "True",
+                "AttachedLink": "https://l.facebook.com/l.php?u=https%3A%2F%2Fhms.harvard.edu%2Fnews%2Fhow-immune-cells-survive-cancer-battles%3Ffbclid%3DIwAR3o52IcaDIQZSMSVnLv4WOAGgxlELksmty7ZFWkU6CKlOOXPPJ59TClAow&h=AT1TmDvPD1KagxJOQsbSPthHhLvUqbOgqWkE4Ttoumaddd9ursO4ozxDFOehz1kK9xHTDX2sodaVSX8mh6n62JRhmFg_NwKkhBLS70ozJn3Otcsg3T0z4w5g9lApeNzGbZ_qWxmsRA&__tn__=H-R&c[0]=AT1e3ahNkCMmmjhnGRLp-zVzV3GthHvTj3-laHrL4_nuSOI1uFcYS2RVto3bVgqi7Mowrx8TDbmHcAUhvGPEUcKAZu8CKI8yPLEY17Z857yd-rHs_gtqsu9UmRga_8vtSwkCFbquY6RFC2kuvxjEUKeMa-9xodFV9ynLvy1kw97y426V",
+                "AttachedLinkTitle": "How Immune cells survive cancer battles",
+                "Category": "MedicalResearch"
+            },
+
+            {
+            "textPresent": "True",
+            "text": "A cohort of more than 120 first-year students took part in service projects this summer, from improving community gardens to teaching hurricane preparedness.",
+            "date": "28/08/21",
+            "likes": "3300",
+            "comments": "70",
+            "shares": "60",
+            "video": "False",
+            "LinkAttached": "True",
+            "AttachedLink": "https://l.facebook.com/l.php?u=https%3A%2F%2Fnews.harvard.edu%2Fgazette%2Fstory%2F2021%2F08%2Fharvard-first-years-arrive-on-campus%2F%3Futm_source%3Dfacebook%26utm_campaign%3Dhu-facebook-general%26utm_medium%3Dsocial%26fbclid%3DIwAR09FumFpTCvPAj_tO0di70JIDbyntQsDjGLyqEri4ozKHu7EZMtR5BLhAA&h=AT2AX7V73Po03NmVPxFX1BzucDu1y28fEWZv0gjQx1E0ZqLrgJt_l8visY9F1GaxcygAKz04RK_J90v4uEfWGFlVhCpvGFCiNsoH0o9VhI89CKZasTADkFYnBj_hoW5WDCJWDWf_FQ&__tn__=H-R&c[0]=AT2P8_fApIv6_33E5BHk8-gwhc1QyU_VuEJd2A8uJEHQIEdHLzyf8tLvxi1ktA8H1W3bB-NPX6MmwuS925035BEHnTLH7O_bo_b5qt-bsrLq-1Gf81m1PJYP4P2ZCtWKxtm9rsArH2ldmxaGqmQ1J4N9Vxmz2Xik4Iwmo0F68gdjYBCk",
+            "AttachedLinkTitle": "Harvard First-Year Students Arrive on Campus",
+            "Category": "StudentsComingBack"
+        },
+
         {
             "textPresent": "True",
-            "text": "The research may lead to more effective immunotherapies for patients with cancer.",
-            "date": "29/08/21",
+            "text": "A series of surveys conducted by the the COVID States Project between April 2020 and July 2021 found that not only do people believe false claims about COVID-19 vaccinations, they are also more likely to jeopardize their health because of the misinformation.",
+            "date": "24/08/21",
             "likes": "1100",
             "comments": "45",
             "shares": "99",
@@ -11,188 +40,164 @@
             "LinkAttached": "True",
             "AttachedLink": "https://l.facebook.com/l.php?u=https%3A%2F%2Fhms.harvard.edu%2Fnews%2Fhow-immune-cells-survive-cancer-battles%3Ffbclid%3DIwAR3o52IcaDIQZSMSVnLv4WOAGgxlELksmty7ZFWkU6CKlOOXPPJ59TClAow&h=AT1TmDvPD1KagxJOQsbSPthHhLvUqbOgqWkE4Ttoumaddd9ursO4ozxDFOehz1kK9xHTDX2sodaVSX8mh6n62JRhmFg_NwKkhBLS70ozJn3Otcsg3T0z4w5g9lApeNzGbZ_qWxmsRA&__tn__=H-R&c[0]=AT1e3ahNkCMmmjhnGRLp-zVzV3GthHvTj3-laHrL4_nuSOI1uFcYS2RVto3bVgqi7Mowrx8TDbmHcAUhvGPEUcKAZu8CKI8yPLEY17Z857yd-rHs_gtqsu9UmRga_8vtSwkCFbquY6RFC2kuvxjEUKeMa-9xodFV9ynLvy1kw97y426V",
             "AttachedLinkTitle": "How Immune cells survive cancer battles",
-            "Category": "MedicalResearch"
+            "Category": "CovidMedicalResearch"
         },
-
         {
-        "textPresent": "True",
-        "text": "A cohort of more than 120 first-year students took part in service projects this summer, from improving community gardens to teaching hurricane preparedness.",
-        "date": "28/08/21",
-        "likes": "3300",
-        "comments": "70",
-        "shares": "60",
-        "video": "False",
-        "LinkAttached": "True",
-        "AttachedLink": "https://l.facebook.com/l.php?u=https%3A%2F%2Fnews.harvard.edu%2Fgazette%2Fstory%2F2021%2F08%2Fharvard-first-years-arrive-on-campus%2F%3Futm_source%3Dfacebook%26utm_campaign%3Dhu-facebook-general%26utm_medium%3Dsocial%26fbclid%3DIwAR09FumFpTCvPAj_tO0di70JIDbyntQsDjGLyqEri4ozKHu7EZMtR5BLhAA&h=AT2AX7V73Po03NmVPxFX1BzucDu1y28fEWZv0gjQx1E0ZqLrgJt_l8visY9F1GaxcygAKz04RK_J90v4uEfWGFlVhCpvGFCiNsoH0o9VhI89CKZasTADkFYnBj_hoW5WDCJWDWf_FQ&__tn__=H-R&c[0]=AT2P8_fApIv6_33E5BHk8-gwhc1QyU_VuEJd2A8uJEHQIEdHLzyf8tLvxi1ktA8H1W3bB-NPX6MmwuS925035BEHnTLH7O_bo_b5qt-bsrLq-1Gf81m1PJYP4P2ZCtWKxtm9rsArH2ldmxaGqmQ1J4N9Vxmz2Xik4Iwmo0F68gdjYBCk",
-        "AttachedLinkTitle": "Harvard First-Year Students Arrive on Campus",
-        "Category": "StudentsComingBack"
-    },
-
-    {
-        "textPresent": "True",
-        "text": "A series of surveys conducted by the the COVID States Project between April 2020 and July 2021 found that not only do people believe false claims about COVID-19 vaccinations, they are also more likely to jeopardize their health because of the misinformation.",
-        "date": "24/08/21",
-        "likes": "1100",
-        "comments": "45",
-        "shares": "99",
-        "video": "False",
-        "LinkAttached": "True",
-        "AttachedLink": "https://l.facebook.com/l.php?u=https%3A%2F%2Fhms.harvard.edu%2Fnews%2Fhow-immune-cells-survive-cancer-battles%3Ffbclid%3DIwAR3o52IcaDIQZSMSVnLv4WOAGgxlELksmty7ZFWkU6CKlOOXPPJ59TClAow&h=AT1TmDvPD1KagxJOQsbSPthHhLvUqbOgqWkE4Ttoumaddd9ursO4ozxDFOehz1kK9xHTDX2sodaVSX8mh6n62JRhmFg_NwKkhBLS70ozJn3Otcsg3T0z4w5g9lApeNzGbZ_qWxmsRA&__tn__=H-R&c[0]=AT1e3ahNkCMmmjhnGRLp-zVzV3GthHvTj3-laHrL4_nuSOI1uFcYS2RVto3bVgqi7Mowrx8TDbmHcAUhvGPEUcKAZu8CKI8yPLEY17Z857yd-rHs_gtqsu9UmRga_8vtSwkCFbquY6RFC2kuvxjEUKeMa-9xodFV9ynLvy1kw97y426V",
-        "AttachedLinkTitle": "How Immune cells survive cancer battles",
-        "Category": "CovidMedicalResearch"
-    },
-    {
-        "textPresent": "True",
-        "text": "Students are beginning to arrive for the fall semester and Remy the Harvard cat is here to welcome them.",
-        "date": "22/08/21",
-        "likes": "7400",
-        "comments": "339",
-        "shares": "701",
-        "video": "False",
-        "LinkAttached": "False",
-        "AttachedLink": "",
-        "AttachedLinkTitle": "",
-        "PhotoAttached": "True",
-        "Photo": "https://www.facebook.com/Harvard/photos/a.158722856606/10157856802556607/?__cft__[0]=AZVcOcBp-fVR-7hGJ5ohzdsonX7UFMapHwHqk8QZ_l4L7BhTR7ACSX-v5nnbd0SYsmSjb3RmB01lPXjf6WYLrgfSXRTEAAxzvjLSjPm8CMDkxTHHOqbws4WJuXOajSi4DNm4eSNVQXW0VPdjw8EpFXbs&__tn__=EH-R",
-        "Category": "StudentsComingBack"
-    
-    },
-    {
-        "textPresent": "True",
-        "text": "As the delta variant surges, what can we expect if vaccination and mask-wearing rates don’t change?",
-        "date": "20/08/21",
-        "likes": "2400",
-        "comments": "330",
-        "shares": "437",
-        "video": "False",
-        "LinkAttached": "True",
-        "AttachedLink": "https://l.facebook.com/l.php?u=https%3A%2F%2Fnews.harvard.edu%2Fgazette%2Fstory%2F2021%2F08%2Fwith-delta-variant-dominant-covid-19-simulator-sees-surge-in-deaths%2F%3Futm_source%3Dfacebook%26utm_campaign%3Dhu-facebook-general%26utm_medium%3Dsocial%26fbclid%3DIwAR3XKvG9UHFdj62MuOH87Ar58itqQom9zPOjHJRpcTmYAKJfTU8h6406oLs&h=AT1OtgKDD3Ieq2EYVyrj3nu0vWvfrXFn9LQkRJKewz-T9wng2LuonAewZMpjDsgcgCuAXk915ufcvVSV2Dw31jcN1SKBTX8KZuttOEWNBEmfoe7sELKulwGuppaAXDUejYZqiCZ2nQ&__tn__=H-R&c[0]=AT3twxgZfbGIKhbF0CaA4onHdmqoe0w5WxWazgBQpEDQLE_8qqZtyTUPpkZBdrvvdmvRci18OpWmaojomURWz_-9oxcY8de0E6ZG52IRfCZQYv3bpL-og3tTWFt4Uac3GoMLLPE613V7ZotHXu0_UY6dwSQte0b2IJx0N3oofEE036Az",
-        "AttachedLinkTitle": "Prognosis:Grim",
-        "PhotoAttached": "False",
-        "Photo": "https://www.facebook.com/Harvard/photos/a.158722856606/10157856802556607/?__cft__[0]=AZVcOcBp-fVR-7hGJ5ohzdsonX7UFMapHwHqk8QZ_l4L7BhTR7ACSX-v5nnbd0SYsmSjb3RmB01lPXjf6WYLrgfSXRTEAAxzvjLSjPm8CMDkxTHHOqbws4WJuXOajSi4DNm4eSNVQXW0VPdjw8EpFXbs&__tn__=EH-R",
-        "Category": "CovidMedicalResearch"
-        
-    },
-    {
-        "textPresent": "True",
-        "text": "Lauren Zabierek discusses the humanitarian chaos unleashed by the Taliban’s takeover of Afghanistan in the wake of the U.S. withdrawal.",
-        "date": "18/08/21",
-        "likes": "797",
-        "comments": "62",
-        "shares": "82",
-        "video": "False",
-        "LinkAttached": "True",
-        "AttachedLink": "https://l.facebook.com/l.php?u=https%3A%2F%2Fnews.harvard.edu%2Fgazette%2Fstory%2F2021%2F08%2Fformer-intelligence-officer-talks-afghanistan-losses-taliban-takeover%2F%3Futm_source%3Dfacebook%26utm_campaign%3Dhu-facebook-general%26utm_medium%3Dsocial%26fbclid%3DIwAR1nkkXiB8yz2LbjQoLUiKdPchcgmicUaoyDBk-hxS-XDJwbCzcneeGJymw&h=AT26XNWQYix0X4fWJBskKFL3IUALthfBYBldqG5Al9ejP-upv0L4LO2Z0Qy1xxLnGp3NtseHBfRviOLCqpE1jGIXICxOPC5sz9r3GK3qWukIynBug6TfX4InPUH35-C5zxUBAio0OA&__tn__=H-R&c[0]=AT1sUcF3D_Q2Js0pj2ka5738mb-eoiB190DYun3ajV6bRoHxi2qJLINT-_zsyY_Y7keAPdxGNTQmHOEG5BpOZILxNeJnYLhWo2ZTk0nmTpv2VsrwOBHTxhUssRSF8uAUHrCBltOIef6VVXxr0Fil3vGo8_LnTiTnlITcxR_FbUP0jekV",
-        "AttachedLinkTitle": "Former intelligence officer talks Afghanistan losses, Taliban takeover",
-        "PhotoAttached": "False",
-        "Photo": "",
-        "Category": "StaffHighlight"
-    },
-    {
-        "textPresent": "True",
-        "text": "On Friday, August 6, the Harvard Medical School and Harvard School of Dental Medicine Class of 2025 gathered for the annual White Coat Ceremony, officially marking the start of their medical and dental careers.",
-        "date": "10/08/21",
-        "likes": "2100",
-        "comments": "93",
-        "shares": "146",
-        "video": "False",
-        "LinkAttached": "False",
-        "AttachedLink": "",
-        "AttachedLinkTitle": "",
-        "PhotoAttached": "True",
-        "Photo": "https://www.facebook.com/Harvard/photos/pcb.10157839736586607/10157839730301607/?__cft__[0]=AZVAIKDUX-nZO0HXhJdiTsCGGo2ug9Rme1rH7AH9UT7mB0mLCFHvh1n6hqzvaVDUMq2V1K-wzFuZc-6U6cgIrvsOPOlYmzjzEf0S101fHt7GZIJ58_Pr3ZsX5ZehAVY1dtET3Oeq0AQ0Jc4PMi6xnON2&__tn__=*bH-R",
-        "Category": "StudentsComingBack"
-    }
-
-],
-
-"July":
-    [
-        {
-        "textPresent": "True",
-        "text": "Sixteen Harvard students and alumni, representing 5 nations, are taking part in the Tokyo Olympics.",
-        "date": "26/07/21",
-        "likes": "1700",
-        "comments": "40",
-        "shares": "126",
-        "video": "False",
-        "LinkAttached": "True",
-        "AttachedLink": "https://l.facebook.com/l.php?u=https%3A%2F%2Fhrvd.me%2FOlympics2021f%3Ffbclid%3DIwAR0A5Z4rtC8A0n5cXs620LgPUFFwMZvyUnrYWWuIAAKKZnn0IG0HL-2cy7M&h=AT0vQs5ERHmZ-GNYsTLS48MtuPAuEwk-sXIfTSyrOFZtgCjNtM5ni5-qkpVFXmHnM2s77kIkwS2ogM6BC31zAu1bZn-xferaUIkycLixkx1s6QQb5BvVvcl6IG7wjfrcSQBvU6nQww&__tn__=H-R&c[0]=AT0uPWMGPdr-PMsC5hJJdkSMBXgcGMWiUj6JzuO1E4zRY93gyDhmSAXgGqPLM4xmf3UmsEGsJMMoP0F_5uL_l-mJ3L4UtTCV6xEsqKwqgpH4bdrRO6stxH4quGNgs_Uz8F3129WAnHwBjPMuddyddP7g56GWBJxVZWBJYqAlt4uzQVG9",
-        "AttachedLinkTitle": "Harvard represents at the Olympics",
-        "PhotoAttached": "False",
-        "Photo": "",
-        "Category": "OlympicsHarvard"
+            "textPresent": "True",
+            "text": "Students are beginning to arrive for the fall semester and Remy the Harvard cat is here to welcome them.",
+            "date": "22/08/21",
+            "likes": "7400",
+            "comments": "339",
+            "shares": "701",
+            "video": "False",
+            "LinkAttached": "False",
+            "AttachedLink": "",
+            "AttachedLinkTitle": "",
+            "PhotoAttached": "True",
+            "Photo": "https://www.facebook.com/Harvard/photos/a.158722856606/10157856802556607/?__cft__[0]=AZVcOcBp-fVR-7hGJ5ohzdsonX7UFMapHwHqk8QZ_l4L7BhTR7ACSX-v5nnbd0SYsmSjb3RmB01lPXjf6WYLrgfSXRTEAAxzvjLSjPm8CMDkxTHHOqbws4WJuXOajSi4DNm4eSNVQXW0VPdjw8EpFXbs&__tn__=EH-R",
+            "Category": "StudentsComingBack"
         
         },
         {
-        "textPresent": "True",
-        "text": "Harvard Ph.D. Arianna Rosenbluth helped create one of the most powerful algorithms of all time. Why did she leave science behind?",
-        "date": "25/07/21",
-        "likes": "3400",
-        "comments": "81",
-        "shares": "521",
-        "video": "False",
-        "LinkAttached": "True",
-        "AttachedLink": "https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.radcliffe.harvard.edu%2Fnews-and-ideas%2Fflash-of-genius%3Ffbclid%3DIwAR1MkWwJNB87ghrDH9hE2Xkeq3mXEvDWNINZ70ievOy8oKKZ9Agg4eXieaQ&h=AT21gDZ3-JNPROszvqSK9AUpbOGasF_SUjvgWOV-Yb1-6664xLRwRGJ0A3ywiq_GKVU8_E7AsLWkks9xPbgKrg5RNowKMM9YvlNNCE9ndsgJyj3OvgkRu6vLRizkrfjEal_wVDrhEQ&__tn__=H-R&c[0]=AT2GnMViTPX3eUKI0RlS8QfDSbXj4z-utsrfoEc0jHIZI_Bi8MHUNX67EJfpHE9RjdfYA5SAocwkQF7jR9HHCD84X9Uqwg41Z43vwgrtmrcDc4qrwc2tTkynz63LZCE_yySh1WTAnRmP0cQ7t95Yz9Mg1ohffd7BJkHHbeiwpj6EvHMK",
-        "AttachedLinkTitle": "She came, She conquered, she disappeared",
-        "PhotoAttached": "False",
-        "Photo": "",
-        "Category": "StaffHighlight"
+            "textPresent": "True",
+            "text": "As the delta variant surges, what can we expect if vaccination and mask-wearing rates don’t change?",
+            "date": "20/08/21",
+            "likes": "2400",
+            "comments": "330",
+            "shares": "437",
+            "video": "False",
+            "LinkAttached": "True",
+            "AttachedLink": "https://l.facebook.com/l.php?u=https%3A%2F%2Fnews.harvard.edu%2Fgazette%2Fstory%2F2021%2F08%2Fwith-delta-variant-dominant-covid-19-simulator-sees-surge-in-deaths%2F%3Futm_source%3Dfacebook%26utm_campaign%3Dhu-facebook-general%26utm_medium%3Dsocial%26fbclid%3DIwAR3XKvG9UHFdj62MuOH87Ar58itqQom9zPOjHJRpcTmYAKJfTU8h6406oLs&h=AT1OtgKDD3Ieq2EYVyrj3nu0vWvfrXFn9LQkRJKewz-T9wng2LuonAewZMpjDsgcgCuAXk915ufcvVSV2Dw31jcN1SKBTX8KZuttOEWNBEmfoe7sELKulwGuppaAXDUejYZqiCZ2nQ&__tn__=H-R&c[0]=AT3twxgZfbGIKhbF0CaA4onHdmqoe0w5WxWazgBQpEDQLE_8qqZtyTUPpkZBdrvvdmvRci18OpWmaojomURWz_-9oxcY8de0E6ZG52IRfCZQYv3bpL-og3tTWFt4Uac3GoMLLPE613V7ZotHXu0_UY6dwSQte0b2IJx0N3oofEE036Az",
+            "AttachedLinkTitle": "Prognosis:Grim",
+            "PhotoAttached": "False",
+            "Photo": "https://www.facebook.com/Harvard/photos/a.158722856606/10157856802556607/?__cft__[0]=AZVcOcBp-fVR-7hGJ5ohzdsonX7UFMapHwHqk8QZ_l4L7BhTR7ACSX-v5nnbd0SYsmSjb3RmB01lPXjf6WYLrgfSXRTEAAxzvjLSjPm8CMDkxTHHOqbws4WJuXOajSi4DNm4eSNVQXW0VPdjw8EpFXbs&__tn__=EH-R",
+            "Category": "CovidMedicalResearch"
+            
         },
         {
-        "textPresent": "True",
-        "text": "Just how dangerous is the Delta COVID variant? William Hanage, associate professor of epidemiology at the Harvard T.H. Chan School of Public Health, has characterized the emergence as dire.",
-        "date": "17/07/21",
-        "likes": "4100",
-        "comments": "123",
-        "shares": "850",
-        "video": "False",
-        "LinkAttached": "True",
-        "AttachedLink": "https://l.facebook.com/l.php?u=https%3A%2F%2Fhrvd.me%2Falz21F%3Ffbclid%3DIwAR2NVrLSxHcO4HbWlfJdgUUXfz0NI6MWK57e4-G_gggClBQyS1wkuxClba0&h=AT2VYofaFDMMmaIFkkDhSzumJlZvwldetlJV4ZiAsCjKDs3YipJQj4vTG_5aQzLhE-QIFlF47nYm8rrbOSHmxYN-c75kZVYeciHNaAudvFHQEAaUBl7gRIvjxvY3a95PJdvQjHLgzA&__tn__=H-R&c[0]=AT0y6W7kYNmrrOAi9vg4bPKr0TGzguX-c0GFpX-riKyi4Jyr38fIfKQYnlsvX8QsWvMNTGWUZ4vH7udsC9GD3LX39P_shdE9rLz58dAbsjNAK9VlCOL5pmZbAJNkpJWLsUz-BDkasZYF2TZH-huhXceVD5HfuKqE9xlsqA0uHj1X4-U9",
-        "AttachedLinkTitle": "Harvard Chan School professor discusses the Delta COVID variant",
-        "PhotoAttached": "False",
-        "Photo": "",
-        "Category": "CovidMedicalResearch"
+            "textPresent": "True",
+            "text": "Lauren Zabierek discusses the humanitarian chaos unleashed by the Taliban’s takeover of Afghanistan in the wake of the U.S. withdrawal.",
+            "date": "18/08/21",
+            "likes": "797",
+            "comments": "62",
+            "shares": "82",
+            "video": "False",
+            "LinkAttached": "True",
+            "AttachedLink": "https://l.facebook.com/l.php?u=https%3A%2F%2Fnews.harvard.edu%2Fgazette%2Fstory%2F2021%2F08%2Fformer-intelligence-officer-talks-afghanistan-losses-taliban-takeover%2F%3Futm_source%3Dfacebook%26utm_campaign%3Dhu-facebook-general%26utm_medium%3Dsocial%26fbclid%3DIwAR1nkkXiB8yz2LbjQoLUiKdPchcgmicUaoyDBk-hxS-XDJwbCzcneeGJymw&h=AT26XNWQYix0X4fWJBskKFL3IUALthfBYBldqG5Al9ejP-upv0L4LO2Z0Qy1xxLnGp3NtseHBfRviOLCqpE1jGIXICxOPC5sz9r3GK3qWukIynBug6TfX4InPUH35-C5zxUBAio0OA&__tn__=H-R&c[0]=AT1sUcF3D_Q2Js0pj2ka5738mb-eoiB190DYun3ajV6bRoHxi2qJLINT-_zsyY_Y7keAPdxGNTQmHOEG5BpOZILxNeJnYLhWo2ZTk0nmTpv2VsrwOBHTxhUssRSF8uAUHrCBltOIef6VVXxr0Fil3vGo8_LnTiTnlITcxR_FbUP0jekV",
+            "AttachedLinkTitle": "Former intelligence officer talks Afghanistan losses, Taliban takeover",
+            "PhotoAttached": "False",
+            "Photo": "",
+            "Category": "StaffHighlight"
         },
         {
-        "textPresent": "True",
-        "text": "Dreading a return to normal? You are not alone. Karestan Koenen, a professor of psychiatric epidemiology, offers suggestions on coping with pandemic trauma.",
-        "date": "12/07/21",
-        "likes": "1700",
-        "comments": "61",
-        "shares": "154",
-        "video": "False",
-        "LinkAttached": "True",
-        "AttachedLink": "https://l.facebook.com/l.php?u=https%3A%2F%2Fhrvd.me%2FreturnF%3Ffbclid%3DIwAR1uEu5ZJyEg7zAodvT3dzFC8iK3reO25woSh_Rku8GP3TNaU_9JXTZY0r4&h=AT2pt7pFlzVaTDG9DPzsbaEwsJVlaQufgm-wVIVyU30YDToApnqlBj84g37EWXSMKw_iBkm0jcZiSKYw7dhiuyux7YvQovpfGOihEfmE61Lc2ACMLgursvqZicMhE4b9wx39Q0ikGw&__tn__=H-R&c[0]=AT3zcJmF-kAMS1Js4nWyTfN5ujrdfWR1VtExEnG2GpItPdCoL6bdgnpL12zipQljORfM9vP720uH6HO_1YduSD2al3WBZhyjjdhfF2oA92rClybWt3eOygmFCNuXJCmtu2z8z4tdLprf4cn_vxwDqU3BNqgc-FrMA5obRF5EcHEmdhf9",
-        "AttachedLinkTitle": "Mental Health Professionals push slow return post-covid",
-        "PhotoAttached": "False",
-        "Photo": "",
-        "Category": "MentalHealth"
+            "textPresent": "True",
+            "text": "On Friday, August 6, the Harvard Medical School and Harvard School of Dental Medicine Class of 2025 gathered for the annual White Coat Ceremony, officially marking the start of their medical and dental careers.",
+            "date": "10/08/21",
+            "likes": "2100",
+            "comments": "93",
+            "shares": "146",
+            "video": "False",
+            "LinkAttached": "False",
+            "AttachedLink": "",
+            "AttachedLinkTitle": "",
+            "PhotoAttached": "True",
+            "Photo": "https://www.facebook.com/Harvard/photos/pcb.10157839736586607/10157839730301607/?__cft__[0]=AZVAIKDUX-nZO0HXhJdiTsCGGo2ug9Rme1rH7AH9UT7mB0mLCFHvh1n6hqzvaVDUMq2V1K-wzFuZc-6U6cgIrvsOPOlYmzjzEf0S101fHt7GZIJ58_Pr3ZsX5ZehAVY1dtET3Oeq0AQ0Jc4PMi6xnON2&__tn__=*bH-R",
+            "Category": "StudentsComingBack"
         }
 
     ],
 
-
-"June": 
-    [
+    "July":
+        [
             {
-                    "textPresent": "True",
-                    "text": "Some mindful moments around Harvard.",
-                    "date": "11/06/21",
-                    "likes": "929",
-                    "comments": "20",
-                    "shares": "70",
-                    "video": "False",
-                    "LinkAttached": "True",
-                    "AttachedLink": "https://l.facebook.com/l.php?u=https%3A%2F%2Fnews.harvard.edu%2Fgazette%2Fstory%2F2021%2F06%2Fmindful-moments-around-harvard%2F%3Futm_source%3Dfacebook%26utm_campaign%3Dhu-facebook-general%26utm_medium%3Dsocial%26fbclid%3DIwAR1Lup9TInmsHq4g0pbyx6BqrdlI81pz_RyZTzvhot89u1MjKlbmJaYOD2s&h=AT3R1TqLR4lND5nf9Vqzh_lcQ8HCKelvlPRosgNTvgAPZ2KOYXbgIEND6M1qMZkPa79-nDGmoJO1bP0CPvbbjC0dIwa6SelRCn5bTYKwHaABdb_r3-6XnfmFxVievrxj3j3M81XWJw&__tn__=H-R&c[0]=AT1JKycoFotD2OKXtfa_aYZ1IeNqu934ZhULKKq6eauKtK3BDRP-th8GEFKNgdiC_Fl3U8NJxLdJJQ69s01gSSEOZpafOEmg2q6EtBfRkAiBpXKOQf0gJCrLiCi5D2FG_FTmeZViGHPE4iKSRtSk93sbk45I9jkxiPLsTsqIqCkJrcNo",
-                    "AttachedLinkTitle": "The serendipity of solitude",
-                    "PhotoAttached": "False",
-                    "Photo": "",
-                    "Category": "MentalHealth"
-                    } 
+            "textPresent": "True",
+            "text": "Sixteen Harvard students and alumni, representing 5 nations, are taking part in the Tokyo Olympics.",
+            "date": "26/07/21",
+            "likes": "1700",
+            "comments": "40",
+            "shares": "126",
+            "video": "False",
+            "LinkAttached": "True",
+            "AttachedLink": "https://l.facebook.com/l.php?u=https%3A%2F%2Fhrvd.me%2FOlympics2021f%3Ffbclid%3DIwAR0A5Z4rtC8A0n5cXs620LgPUFFwMZvyUnrYWWuIAAKKZnn0IG0HL-2cy7M&h=AT0vQs5ERHmZ-GNYsTLS48MtuPAuEwk-sXIfTSyrOFZtgCjNtM5ni5-qkpVFXmHnM2s77kIkwS2ogM6BC31zAu1bZn-xferaUIkycLixkx1s6QQb5BvVvcl6IG7wjfrcSQBvU6nQww&__tn__=H-R&c[0]=AT0uPWMGPdr-PMsC5hJJdkSMBXgcGMWiUj6JzuO1E4zRY93gyDhmSAXgGqPLM4xmf3UmsEGsJMMoP0F_5uL_l-mJ3L4UtTCV6xEsqKwqgpH4bdrRO6stxH4quGNgs_Uz8F3129WAnHwBjPMuddyddP7g56GWBJxVZWBJYqAlt4uzQVG9",
+            "AttachedLinkTitle": "Harvard represents at the Olympics",
+            "PhotoAttached": "False",
+            "Photo": "",
+            "Category": "OlympicsHarvard"
             
-    ]
+            },
+            {
+            "textPresent": "True",
+            "text": "Harvard Ph.D. Arianna Rosenbluth helped create one of the most powerful algorithms of all time. Why did she leave science behind?",
+            "date": "25/07/21",
+            "likes": "3400",
+            "comments": "81",
+            "shares": "521",
+            "video": "False",
+            "LinkAttached": "True",
+            "AttachedLink": "https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.radcliffe.harvard.edu%2Fnews-and-ideas%2Fflash-of-genius%3Ffbclid%3DIwAR1MkWwJNB87ghrDH9hE2Xkeq3mXEvDWNINZ70ievOy8oKKZ9Agg4eXieaQ&h=AT21gDZ3-JNPROszvqSK9AUpbOGasF_SUjvgWOV-Yb1-6664xLRwRGJ0A3ywiq_GKVU8_E7AsLWkks9xPbgKrg5RNowKMM9YvlNNCE9ndsgJyj3OvgkRu6vLRizkrfjEal_wVDrhEQ&__tn__=H-R&c[0]=AT2GnMViTPX3eUKI0RlS8QfDSbXj4z-utsrfoEc0jHIZI_Bi8MHUNX67EJfpHE9RjdfYA5SAocwkQF7jR9HHCD84X9Uqwg41Z43vwgrtmrcDc4qrwc2tTkynz63LZCE_yySh1WTAnRmP0cQ7t95Yz9Mg1ohffd7BJkHHbeiwpj6EvHMK",
+            "AttachedLinkTitle": "She came, She conquered, she disappeared",
+            "PhotoAttached": "False",
+            "Photo": "",
+            "Category": "StaffHighlight"
+            },
+            {
+            "textPresent": "True",
+            "text": "Just how dangerous is the Delta COVID variant? William Hanage, associate professor of epidemiology at the Harvard T.H. Chan School of Public Health, has characterized the emergence as dire.",
+            "date": "17/07/21",
+            "likes": "4100",
+            "comments": "123",
+            "shares": "850",
+            "video": "False",
+            "LinkAttached": "True",
+            "AttachedLink": "https://l.facebook.com/l.php?u=https%3A%2F%2Fhrvd.me%2Falz21F%3Ffbclid%3DIwAR2NVrLSxHcO4HbWlfJdgUUXfz0NI6MWK57e4-G_gggClBQyS1wkuxClba0&h=AT2VYofaFDMMmaIFkkDhSzumJlZvwldetlJV4ZiAsCjKDs3YipJQj4vTG_5aQzLhE-QIFlF47nYm8rrbOSHmxYN-c75kZVYeciHNaAudvFHQEAaUBl7gRIvjxvY3a95PJdvQjHLgzA&__tn__=H-R&c[0]=AT0y6W7kYNmrrOAi9vg4bPKr0TGzguX-c0GFpX-riKyi4Jyr38fIfKQYnlsvX8QsWvMNTGWUZ4vH7udsC9GD3LX39P_shdE9rLz58dAbsjNAK9VlCOL5pmZbAJNkpJWLsUz-BDkasZYF2TZH-huhXceVD5HfuKqE9xlsqA0uHj1X4-U9",
+            "AttachedLinkTitle": "Harvard Chan School professor discusses the Delta COVID variant",
+            "PhotoAttached": "False",
+            "Photo": "",
+            "Category": "CovidMedicalResearch"
+            },
+            {
+            "textPresent": "True",
+            "text": "Dreading a return to normal? You are not alone. Karestan Koenen, a professor of psychiatric epidemiology, offers suggestions on coping with pandemic trauma.",
+            "date": "12/07/21",
+            "likes": "1700",
+            "comments": "61",
+            "shares": "154",
+            "video": "False",
+            "LinkAttached": "True",
+            "AttachedLink": "https://l.facebook.com/l.php?u=https%3A%2F%2Fhrvd.me%2FreturnF%3Ffbclid%3DIwAR1uEu5ZJyEg7zAodvT3dzFC8iK3reO25woSh_Rku8GP3TNaU_9JXTZY0r4&h=AT2pt7pFlzVaTDG9DPzsbaEwsJVlaQufgm-wVIVyU30YDToApnqlBj84g37EWXSMKw_iBkm0jcZiSKYw7dhiuyux7YvQovpfGOihEfmE61Lc2ACMLgursvqZicMhE4b9wx39Q0ikGw&__tn__=H-R&c[0]=AT3zcJmF-kAMS1Js4nWyTfN5ujrdfWR1VtExEnG2GpItPdCoL6bdgnpL12zipQljORfM9vP720uH6HO_1YduSD2al3WBZhyjjdhfF2oA92rClybWt3eOygmFCNuXJCmtu2z8z4tdLprf4cn_vxwDqU3BNqgc-FrMA5obRF5EcHEmdhf9",
+            "AttachedLinkTitle": "Mental Health Professionals push slow return post-covid",
+            "PhotoAttached": "False",
+            "Photo": "",
+            "Category": "MentalHealth"
+            }
+
+        ],
+
+
+    "June": 
+        [
+                {
+                        "textPresent": "True",
+                        "text": "Some mindful moments around Harvard.",
+                        "date": "11/06/21",
+                        "likes": "929",
+                        "comments": "20",
+                        "shares": "70",
+                        "video": "False",
+                        "LinkAttached": "True",
+                        "AttachedLink": "https://l.facebook.com/l.php?u=https%3A%2F%2Fnews.harvard.edu%2Fgazette%2Fstory%2F2021%2F06%2Fmindful-moments-around-harvard%2F%3Futm_source%3Dfacebook%26utm_campaign%3Dhu-facebook-general%26utm_medium%3Dsocial%26fbclid%3DIwAR1Lup9TInmsHq4g0pbyx6BqrdlI81pz_RyZTzvhot89u1MjKlbmJaYOD2s&h=AT3R1TqLR4lND5nf9Vqzh_lcQ8HCKelvlPRosgNTvgAPZ2KOYXbgIEND6M1qMZkPa79-nDGmoJO1bP0CPvbbjC0dIwa6SelRCn5bTYKwHaABdb_r3-6XnfmFxVievrxj3j3M81XWJw&__tn__=H-R&c[0]=AT1JKycoFotD2OKXtfa_aYZ1IeNqu934ZhULKKq6eauKtK3BDRP-th8GEFKNgdiC_Fl3U8NJxLdJJQ69s01gSSEOZpafOEmg2q6EtBfRkAiBpXKOQf0gJCrLiCi5D2FG_FTmeZViGHPE4iKSRtSk93sbk45I9jkxiPLsTsqIqCkJrcNo",
+                        "AttachedLinkTitle": "The serendipity of solitude",
+                        "PhotoAttached": "False",
+                        "Photo": "",
+                        "Category": "MentalHealth"
+                        } 
+                
+        ]
+    },
+    "Facebook": {
+        
     }
+}
 
 
     
